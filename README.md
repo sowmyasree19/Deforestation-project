@@ -1,4 +1,4 @@
-# Deforestation-project
+# Identifying-Deforestation-project
 
 I have implemented U-Net and sequential model for segmentation and classification of the satellite images. I have trained the model's weights and saved the with the names "forest_segmentation_model.h5" and "segmentation.h5". And to represent the results of my project with the help of streamlit app "app2.py" by recreating the models architecture and model weights that have been saved.
 
